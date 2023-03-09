@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/quoteprice/static/css/main.a61d51e5.css",
-    "main.js": "/quoteprice/static/js/main.4fdc344f.js",
+    "main.js": "/quoteprice/static/js/main.3e901ce2.js",
     "index.html": "/quoteprice/index.html",
     "main.a61d51e5.css.map": "/quoteprice/static/css/main.a61d51e5.css.map",
-    "main.4fdc344f.js.map": "/quoteprice/static/js/main.4fdc344f.js.map"
+    "main.3e901ce2.js.map": "/quoteprice/static/js/main.3e901ce2.js.map"
   },
   "entrypoints": [
     "static/css/main.a61d51e5.css",
-    "static/js/main.4fdc344f.js"
+    "static/js/main.3e901ce2.js"
   ]
 }

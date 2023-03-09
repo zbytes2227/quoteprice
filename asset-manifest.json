@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/quoteprice/static/css/main.8e2b0a5a.css",
-    "main.js": "/quoteprice/static/js/main.2024bec1.js",
+    "main.css": "/quoteprice/static/css/main.a61d51e5.css",
+    "main.js": "/quoteprice/static/js/main.4fdc344f.js",
     "index.html": "/quoteprice/index.html",
-    "main.8e2b0a5a.css.map": "/quoteprice/static/css/main.8e2b0a5a.css.map",
-    "main.2024bec1.js.map": "/quoteprice/static/js/main.2024bec1.js.map"
+    "main.a61d51e5.css.map": "/quoteprice/static/css/main.a61d51e5.css.map",
+    "main.4fdc344f.js.map": "/quoteprice/static/js/main.4fdc344f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e2b0a5a.css",
-    "static/js/main.2024bec1.js"
+    "static/css/main.a61d51e5.css",
+    "static/js/main.4fdc344f.js"
   ]
 }
